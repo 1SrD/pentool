@@ -52,7 +52,7 @@ Fallback automático: si las wordlists del sistema no existen (dirb, seclists), 
 ```bash
 git clone https://github.com/1SrD/pentool.git
 cd pentool
-python3 main.py
+sudo python3 main.py
 ```
 
 Sin dependencias pip. Solo Python 3.10+ stdlib y Tkinter.
