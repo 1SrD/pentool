@@ -1,0 +1,7 @@
+# PenTool dependencies
+# Tkinter is included with Python 3 standard library
+# No additional pip packages required for core functionality
+
+# Optional: for future extensions
+# requests>=2.31.0
+# colorama>=0.4.6

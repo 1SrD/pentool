@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+.env
+venv/
+.venv/
+
+# PenTool runtime data (sensitive)
+output/
+scripts/
+sessions/*.json
+reports/*.html
+presets/custom.json
+
+# Metasploit temp RC files
+/tmp/pentool_rc/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
